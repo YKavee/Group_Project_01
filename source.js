@@ -4,3 +4,4 @@ function toCelsius(fahrenheit)
  }
  
 document.getElementById("demo").innerHTML = toCelsius(77);
+document.getElementById("d").innerHTML = toCelsius(54);
